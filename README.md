@@ -63,7 +63,7 @@ Thank you!!!
 
 
 ## Author/Developer
-  Usman Munir (Senior Mobile App developer)
+  Amanullah (Senior Mobile App developer)
   
 
 
